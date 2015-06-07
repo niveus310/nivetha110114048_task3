@@ -1,9 +1,6 @@
 #box{
         width: 100px;
         height: 100px;
-	top: 100px;
-	left:100px;
-	position:relative;
-        margin: 200px auto 0;
+	position:absolute;
         background: red;
     }
